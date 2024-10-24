@@ -4,7 +4,7 @@
 <p align="center">
         <img src="https://files.catbox.moe/h5cwfe.jpeg" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">(Chucky-AI</h1>
+<h1 align="center">Chucky-AI</h1>
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=This+is+Chucky-AI;MULTI+DEVICE+WHATSAPP+BOT;MADE+BY+URUS;CODED+BY+SAITAMA;RELEASING+SOONER+FAHM;ACKNOWLEDGE+ME." alt="Typing SVG" /></a>
 <p align="center"><a href="https://github.com/M-axie"><img title="Author" src="https://img.shields.io/badge/OWNER-UrusTech-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></p><br>
@@ -22,9 +22,10 @@
 
  ###  2. SCAN QR CODE 
   Use pairing code ( working efficiently )
+     <br>
 <a href='https://replit.com/@urustech/Chucky-AI?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/link with code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
   Scan Qr Code
+     <br>
 <a href='https://replit.com/@urustech/Chucky-qr-AI?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.` 
