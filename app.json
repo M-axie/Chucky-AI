@@ -1,0 +1,79 @@
+{
+  "name": "CHUCKY-AI",
+  "description": "A whatsapp bot by Urus.",
+  "keywords": ["whatsapp bot"],
+  "repository": "https://github.com/M-axie/Chucky-AI",
+      "logo": "https://files.catbox.moe/h5cwfe.jpeg",
+  "stack": "container",
+  "env": {
+    "AUTOREAD": {
+      "description": "Enable auto read of messages",
+      "required": false,
+      "value": "FALSE"
+    },
+    "FOR_NOTIFICATION": {
+  "description": "Type the number you will like to be recieving notification when bot restarts..",
+  "required": true,
+  "value": ""
+},
+    "OPEN_AI_KEY": {
+  "description": "Enter your Open AI key for .ai-img and .ai functionality. You can leave blank and Use .gpt command",
+  "required": false,
+  "value": ""
+},
+    "ALWAYS_ONLINE": {
+  "description": "Enable always online feature",
+  "required": false,
+  "value": "TRUE"
+},
+"AUTOVIEW_STATUS": {
+  "description": "Enable auto status viewing feature",
+  "required": false,
+  "value": "TRUE"
+},
+    "WA_PRESENCE": {
+  "description": "Put value as recording if you want bot to be recording all times and typing for typing",
+  "required": false,
+  "value": "recording"
+},
+    "MONGO_DB": {
+      "description": "your mongodb database url",
+      "required": true,
+      "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority"
+    },
+    "PREFIX": {
+  "description": "any symbol,if you leave blank,it will be responding to all messages",
+  "required": false,
+  "value": "."
+},
+"APP_NAME": {
+  "description": "App name exactlyas the one above",
+  "required": true,
+  "value": ""
+},
+"HEROKU_API": {
+  "description": "Get from heroku account settings tab",
+  "required": true,
+  "value": ""
+},
+"OWNER": {
+  "description": "Type the numbers you will like to be Owners,Separate with a comma.",
+  "required": false,
+  "value": "254752146910"
+}
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
