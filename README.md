@@ -24,6 +24,7 @@
   Use pairing code ( working efficiently )
      <br>
 <a href='https://replit.com/@urustech/Chucky-AI?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/link with code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+     <br>
   Scan Qr Code
      <br>
 <a href='https://replit.com/@urustech/Chucky-qr-AI?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
