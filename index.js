@@ -300,12 +300,12 @@ client.sendMessage(owner + "CONTACT", {
         }
     }
 });
-});
-    }
+};
+    
    // Get Profile Picture Group
 try {
 ppgroup = await client.profilePictureUrl(anu.id, 'image')
-} catch {
+
 ppgroup = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 }
 
