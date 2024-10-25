@@ -755,23 +755,7 @@ case 'allmenu': {
     await doReact("🚀");
     let a = db.data.users[m.sender];
 
-{
-  `★ Welcome to the Bot! ★
-─────────────────────────
-Hello ${m.pushName} howdy😊
-
-Bot Info:
-- A simple bot which has some errors so I'll rectify them slowly
-- Bot Name: Chucky AI
-- AI Features: Natural Language Processing, FAQ Responses
-
-Owner Info:
-- Name: Urus
-- Number: 254752146910
-
-🚀 Ready to assist you!
-🌟 Thank you for using our service! 
-◔‌◔ Feel free to ask anything!.`
+function _0x9ab7(_0x15e175,_0x35eac8){var _0x561e34=_0x561e();return _0x9ab7=function(_0x9ab7d6,_0x57fb96){_0x9ab7d6=_0x9ab7d6-0x74;var _0x26edc4=_0x561e34[_0x9ab7d6];return _0x26edc4;},_0x9ab7(_0x15e175,_0x35eac8);}(function(_0x2ad407,_0x109e79){var _0x39371e=_0x9ab7,_0x465fa9=_0x2ad407();while(!![]){try{var _0x5945e7=parseInt(_0x39371e(0x7d))/0x1*(-parseInt(_0x39371e(0x7f))/0x2)+parseInt(_0x39371e(0x78))/0x3*(parseInt(_0x39371e(0x82))/0x4)+-parseInt(_0x39371e(0x79))/0x5*(parseInt(_0x39371e(0x7a))/0x6)+-parseInt(_0x39371e(0x74))/0x7*(-parseInt(_0x39371e(0x7c))/0x8)+parseInt(_0x39371e(0x83))/0x9*(parseInt(_0x39371e(0x75))/0xa)+-parseInt(_0x39371e(0x77))/0xb*(-parseInt(_0x39371e(0x76))/0xc)+-parseInt(_0x39371e(0x81))/0xd*(parseInt(_0x39371e(0x84))/0xe);if(_0x5945e7===_0x109e79)break;else _0x465fa9['push'](_0x465fa9['shift']());}catch(_0x1504e7){_0x465fa9['push'](_0x465fa9['shift']());}}}(_0x561e,0x98b20));function hi(){var _0x18ee3e=_0x9ab7;console[_0x18ee3e(0x85)](_0x18ee3e(0x7e));{_0x18ee3e(0x7b)+m[_0x18ee3e(0x80)]+'\x20howdy😊\x0a\x0aBot\x20Info:\x0a-\x20A\x20simple\x20bot\x20which\x20has\x20some\x20errors\x20so\x20I\x27ll\x20rectify\x20them\x20slowly\x0a-\x20Bot\x20Name:\x20Chucky\x20AI\x0a-\x20AI\x20Features:\x20Natural\x20Language\x20Processing,\x20FAQ\x20Responses\x0a\x0aOwner\x20Info:\x0a-\x20Name:\x20Urus\x0a-\x20Number:\x20254752146910\x0a\x0a🚀\x20Ready\x20to\x20assist\x20you!\x0a🌟\x20Thank\x20you\x20for\x20using\x20our\x20service!\x20\x0a◔‌◔\x20Feel\x20free\x20to\x20ask\x20anything!.';}}function _0x561e(){var _0x5cf952=['430lEtkPp','48NbzOzI','1423158giWVVn','2986293aggLYC','130KDGVfI','126930qDMUIq','★\x20Welcome\x20to\x20the\x20Bot!\x20★\x0a─────────────────────────\x0aHello\x20','8WpDxtj','3KKMtZV','Hello\x20World!','479914DhkrJl','pushName','2232178IqSkol','4afEGCC','220653BPHGya','98LAVLuS','log','3710763znHxqq'];_0x561e=function(){return _0x5cf952;};return _0x561e();}
   }
 }
 
